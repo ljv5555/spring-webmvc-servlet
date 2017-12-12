@@ -11,7 +11,8 @@ or
 
 
 
-<code>
+```
+
 package com.khs.sample.spring.servlet.springwebmvcservlet;
 
 
@@ -30,5 +31,6 @@ public class MainServlet{
         response.getWriter().append("Get endpoint.");
     }
 
+
 }
-</code>
+```
